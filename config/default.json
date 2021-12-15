@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://AkSHaY:Akshay123@cluster0.uo7tu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "Akshay",
+  "admin": "akshaybarya@gmail.com"
+}
